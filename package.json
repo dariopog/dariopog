@@ -1,0 +1,11 @@
+{
+  "name": "dariopog",
+  "version": "0.0.0",
+  "description": "dariopog CLI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dariopog/dariopog.git"
+  },
+  "author": "dariopog"
+}
